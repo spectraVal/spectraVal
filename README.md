@@ -12,36 +12,38 @@
 </p>
 
 
-<h3 align="left">Languages & Technologies</h3>
 
-<h4>Programming Languages</h4>
-<p align="left">
+<h3 align="center">Languages & Technologies</h3>
+
+<h4 align="center">Programming Languages</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,js,ts,bash" />
 </p>
 
-<h4>Frontend Development</h4>
-<p align="left">
+<h4 align="center">Frontend Development</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,react,tailwind" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
 </p>
 
-<h4>Backend & Cloud</h4>
-<p align="left">
+<h4 align="center">Backend & Cloud</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 </p>
 
-<h4>Database</h4>
-<p align="left">
+<h4 align="center">Database</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-<h4>DevOps & Development Tools</h4>
-<p align="left">
+<h4 align="center">DevOps & Development Tools</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,postman" />
 </p>
 
-<h4>Design & Mobile</h4>
-<p align="left">
+<h4 align="center">Design & Mobile</h4>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,android" />
 </p>
+
 
