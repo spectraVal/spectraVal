@@ -13,37 +13,43 @@
 
 
 
-<h3 align="center">Languages & Technologies</h3>
 
-<h4 align="center">Programming Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,ts,bash" />
-</p>
 
-<h4 align="center">Frontend Development</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,react,tailwind" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
-</p>
+<h3 align="center">Technical Skills & Expertise</h3>
 
-<h4 align="center">Backend & Cloud</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td align="center" width="50%">
+      <h4>Software Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=c,js,ts,html,android" />
+    </td>
+    <td align="center" width="50%">
+      <h4>Frontend Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,figma" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>Backend Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+    </td>
+    <td align="center" width="50%">
+      <h4>Database Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>DevOps & Infrastructure</h4>
+      <img src="https://skillicons.dev/icons?i=linux,bash,docker,git" />
+    </td>
+    <td align="center" width="50%">
+      <h4>API Development & Testing</h4>
+      <img src="https://skillicons.dev/icons?i=postman" />
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">Database</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-<h4 align="center">DevOps & Development Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,postman" />
-</p>
-
-<h4 align="center">Design & Mobile</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,android" />
-</p>
 
 
